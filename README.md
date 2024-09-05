@@ -1,7 +1,3 @@
-Dưới đây là ví dụ về README đầy đủ cho trang chủ landing của Ofood:
-
----
-
 # Ofood Landing Page
 
 ## Giới thiệu
@@ -47,7 +43,3 @@ Cảm ơn bạn đã ghé thăm trang landing của Ofood. Nếu bạn có bất
 
 - **Email**: thanhchungrc229@gmail.com
 - **GitHub**: [Ofood GitHub Repository](https://github.com/chungdeptraivl/ofood-tailwind-html)
-
----
-
-Hy vọng README này cung cấp đủ thông tin về trang chủ landing của Ofood và giúp người dùng dễ dàng hiểu và truy cập trang web.
